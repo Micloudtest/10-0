@@ -1,0 +1,5 @@
+ro.sys.usb.storage.type=mtp
+ro.mtk_tee_gp_support=1
+ro.mtk_microtrust_tee_support=1
+ro.hardware.gatekeeper=beanpod
+ro.hardware.kmsetkey=beanpod
